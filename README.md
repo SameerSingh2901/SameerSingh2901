@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on direct Speech-to-Speech Translation<br> 🌱 I’m currently studying B.Sc. Data Science <br> 📫 Email - sameersingh8810@gmail.com
+🔭 I’m currently working on direct Speech-to-Speech Translation<br> 🌱 I’m currently studying B.Sc. Data Science <br> 📫 Email - sameersingh8810@gmail.com <br> 🌟 Projects: <br>    1) Image Converter - https://image-converter-using-opencv.onrender.com
 
 
 ## 🌐 Socials:
