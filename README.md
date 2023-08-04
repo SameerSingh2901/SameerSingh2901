@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently studying B.Sc. Data Science <br> 📗 Resume - https://resume.io/r/WesEJySOS <br> 📫 Email - sameersingh8810@gmail.com <br> 🌟 Projects: <br>    1) Image Converter - https://image-converter-using-opencv.onrender.com <br> 2) Face Detection using Haar Cascade - https://face-detection-using-haar-cascade.onrender.com
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-singh-5882b4214) 
 
