@@ -1,3 +1,13 @@
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameersingh2901/">
+    <img src="https://img.shields.io/badge/abdul_farhan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+ </a>
+<a href="https://twitter.com/F__Abdul">
+    <img src="https://img.shields.io/badge/-@F__Abdul-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+ </a>
+
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">Data Scientist and Business Analyst</h3>
 
