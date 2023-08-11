@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">Data Scientist and Business Analyst</h3>
 
-<p align="left"> <img src="[https://i.ytimg.com/vi/F725_-vtI88/maxresdefault.jpg](https://yoasis-katokiti.tumblr.com/image/145972285387)" alt="sameersingh2901" /> </p>
+<p align="left"> <img src="https://i.ytimg.com/vi/F725_-vtI88/maxresdefault.jpg](https://yoasis-katokiti.tumblr.com/image/145972285387)" alt="sameersingh2901" /> </p>
 
 - 🔭 I’m currently working on **Portfolio Management using ML**
 
