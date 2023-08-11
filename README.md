@@ -37,7 +37,7 @@
 ## Current Stats
 [![](https://visitcount.itsvg.in/api?id=SameerSingh2901&icon=1&color=9)](https://visitcount.itsvg.in)
 
-|   ![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sameersingh2901&theme=default)
+|   ![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sameersingh2901&theme=rogue)
 | :---: |
 
 | ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameersingh2901&show_icons=true) | ![Sameer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sameersingh2901) |
