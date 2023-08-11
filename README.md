@@ -3,10 +3,9 @@
 <p align="center">
 <a href="https://linkedin.com/in/sameersingh2901" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameersingh2901" height="30" width="40" /></a>
 </p>
-
 <br>
 
-<p align="right"> <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif"> </p>
+<p align="right"> <img align="right" alt="Coding" width="400" height= "300" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"> </p><br>
 
 - 🔭 I’m currently working on **Portfolio Management using ML**
 
@@ -21,6 +20,7 @@
 
 
 - 📄 Know about my experiences [https://resume.io/r/WesEJySOS](https://resume.io/r/WesEJySOS)
+
 <br>
 
 ## Current Stack
