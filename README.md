@@ -10,11 +10,15 @@
 
 - 🔭 I’m currently working on **Portfolio Management using ML**
 
+
 - 🌱 I’m currently learning **Machine Learning**
+
 
 - 💬 Ask me about **Data Science, Data Engineering, Machine Learning,**
 
+
 - 📫 How to reach me **sameersingh8810@gmail.com**
+
 
 - 📄 Know about my experiences [https://resume.io/r/WesEJySOS](https://resume.io/r/WesEJySOS)
 <br>
