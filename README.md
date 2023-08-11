@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sameer</h1>
-<p align="center">
-<a href="https://linkedin.com/in/sameersingh2901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameersingh2901" height="30" width="40" /></a>
-</p>
-<h3 align="center">Data Scientist and Business Analyst</h3>
+![Sameer Github Banner](./assets/github_banner.png)
 
-<p align="right"> <img src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" alt="sameersingh2901" /> </p>
+<p align="center">
+<a href="https://linkedin.com/in/sameersingh2901" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameersingh2901" height="30" width="40" /></a>
+</p>
+
+<br>
+
+<p align="right"> <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif"> </p>
 
 - 🔭 I’m currently working on **Portfolio Management using ML**
 
@@ -15,11 +17,6 @@
 - 📫 How to reach me **sameersingh8810@gmail.com**
 
 - 📄 Know about my experiences [https://resume.io/r/WesEJySOS](https://resume.io/r/WesEJySOS)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sameersingh2901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameersingh2901" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
