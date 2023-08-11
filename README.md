@@ -1,6 +1,7 @@
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-singh-5882b4214)
 <p align="center">
+  
   <a href="https://www.linkedin.com/in/sameersingh2901/">
     <img src="https://img.shields.io/badge/Sameer?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
