@@ -1,12 +1,7 @@
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-singh-5882b4214)
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/sameersingh2901/">
-    <img src="https://img.shields.io/badge/Sameer?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
- </a>
-
 <h1 align="center">Hi 👋, I'm Sameer</h1>
+<p align="center">
+<a href="https://linkedin.com/in/sameersingh2901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameersingh2901" height="30" width="40" /></a>
+</p>
 <h3 align="center">Data Scientist and Business Analyst</h3>
 
 <p align="right"> <img src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" alt="sameersingh2901" /> </p>
