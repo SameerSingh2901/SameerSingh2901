@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sameersingh2901/">
-    <img src="https://img.shields.io/badge/Sameer-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/Sameer?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
 
 <h1 align="center">Hi 👋, I'm Sameer</h1>
