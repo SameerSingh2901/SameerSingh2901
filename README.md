@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameersingh2901&label=Profile%20views&color=0e75b6&style=flat" alt="sameersingh2901" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameersingh2901" alt="sameersingh2901" /></a> </p>
-
 - 🔭 I’m currently working on **Portfolio Management using ML**
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -53,9 +51,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=SameerSingh2901&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SameerSingh2901&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerSingh2901&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SameerSingh2901&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SameerSingh2901&limit=5&theme=onedark&combine_all_yearly_contributions=true)
