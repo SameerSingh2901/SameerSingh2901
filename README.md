@@ -37,7 +37,6 @@
 
 
 
-
 ## Current Stats
 [![](https://visitcount.itsvg.in/api?id=SameerSingh2901&icon=1&color=9)](https://visitcount.itsvg.in)
 
@@ -49,5 +48,21 @@
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameersingh2901) | ![](https://github-contributor-stats.vercel.app/api?username=SameerSingh2901&limit=5&combine_all_yearly_contributions=true)
 | :---: |  :---: |
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SameerSingh2901/SameerSingh2901/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SameerSingh2901/SameerSingh2901/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/SameerSingh2901/SameerSingh2901/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <!-- &theme=rogue  &theme=city_lights   Proudly created with GPRM ( https://gprm.itsvg.in ) -->
