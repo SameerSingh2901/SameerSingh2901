@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 
 
-- 💬 Ask me about **Data Science, Data Engineering, Machine Learning,**
+- 💬 Ask me about **Data Science, Data Analytics, Data Engineering, Machine Learning,**
 
 
 - 📫 How to reach me **sameersingh8810@gmail.com**
