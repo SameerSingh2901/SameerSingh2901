@@ -19,8 +19,6 @@
 - 📫 How to reach me **sameersingh8810@gmail.com**
 
 
-- 📄 Know about my experiences [https://resume.io/r/WesEJySOS](https://resume.io/r/WesEJySOS)
-
 <br>
 
 ## Current Stack
