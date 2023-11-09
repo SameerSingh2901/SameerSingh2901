@@ -53,12 +53,4 @@
 
 ![Certificate Full Stack Data Science Certificate](./assets/ineuron_certificate.png)
 
-
-<picture>
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/SameerSingh2901/SameerSingh2901/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 <!-- &theme=rogue  &theme=city_lights   Proudly created with GPRM ( https://gprm.itsvg.in ) -->
