@@ -51,6 +51,10 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameersingh2901) | ![](https://github-contributor-stats.vercel.app/api?username=SameerSingh2901&limit=5&combine_all_yearly_contributions=true)
 | :---: |  :---: |
 
+## Certification
+<picture>
+  <img alt="certificate of full stack data science program from iNeuron" scr="">
+</picture>
 
 <picture>
   <img
