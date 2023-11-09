@@ -52,9 +52,9 @@
 | :---: |  :---: |
 
 ## Certification
-<picture>
-  <img alt="certificate of full stack data science program from iNeuron" scr="">
-</picture>
+
+![Certificate Full Stack Data Science Certificate](./assets/ineuron_certificate.png)
+
 
 <picture>
   <img
