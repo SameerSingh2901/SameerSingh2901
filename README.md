@@ -7,7 +7,7 @@
 
 <p align="right"> <img align="right" alt="Coding" width="400" height= "300" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"> </p><br>
 
-- 🔭 I’m currently working on **Portfolio Management using ML**
+- 🔭 **Certificate** - iNeuron Full Stack Data Science Certificate
 
 
 - 🌱 I’m currently learning **Machine Learning**
