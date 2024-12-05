@@ -7,16 +7,14 @@
 
 <p align="right"> <img align="right" alt="Coding" width="400" height= "300" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"> </p><br>
 
-- 🔭 **Certificate** - iNeuron Full Stack Data Science Certificate
+- 🌱 I’m currently working as  **Solution Engineer**
 
-
-- 🌱 I’m currently learning **Machine Learning**
-
+- 🔭 **Bachelor's In Data Science**
 
 - 💬 Ask me about **Data Science, Data Analytics, Data Engineering, Machine Learning,**
 
 
-- 📫 How to reach me **sameersingh8810@gmail.com**
+- 📫 How to reach me **sameersinghwork@gmail.com**
 
 
 <br>
